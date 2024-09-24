@@ -32,8 +32,6 @@ const soheilMansoori = {
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soheilmansoori_82/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soheilMansoori/)
 
-![Telegram](https://camo.githubusercontent.com/4f4f64f82be5054…d74656c656772616d266c6f676f436f6c6f723d7768697465)
-
 # 💻 Tech Stack:
 
 # Front End:
