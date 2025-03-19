@@ -1,0 +1,73 @@
+<== vs-code extensions  ==>
+Alpine_Snippets
+Auto Rename Tag
+Better Comments
+Bookmarks
+Bootstrap IntelliSense
+Code Spell Checker
+CodeSnap
+CSS Peek
+Database Client
+Database Client JDBC
+Docker
+Error Lens
+ES7 React/Redux/GraphQL/React-Native snippets
+ESLint
+GitLens — Git supercharged
+HTML to CSS autocompletion
+JavaScript and TypeScript Nightly
+Live Server
+npm Intellisense
+Postman
+Prettier - Code formatter
+REST Client
+Tailwind CSS IntelliSense
+Vetur
+vscode-icons
+Console Ninja
+Go
+Vim
+<== !!! ==>
+
+<== pwa-apps ==>
+google-meet
+github
+mdn
+TypeScript
+react_v17
+react_native
+go_fa
+go_fiber
+Postman
+mongodb_compass
+lodash
+bootstrap
+webpack
+jest
+zustand
+MUI
+gatsby
+svelte
+ejs
+vim
+robot 3t
+
+
+<== !!! ==>
+
+
+<== install-applications ==>
+nodejs
+nvm
+go
+git
+docker 
+mongodb
+mongodb_compass
+mysql
+redis
+copy q
+htop
+zsh
+vlc player
+rar
