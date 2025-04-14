@@ -71,3 +71,19 @@ htop
 zsh
 vlc player
 rar
+<== !!! ==> 
+
+<== google chrome extensions ==> 
+wappalyzer
+react-dev-tools
+react-context-dev-tools
+json-fromater
+color-zilla
+free-vpn-veePN
+swr-dev-tools
+vue-dev-tools
+redux-dev-tools
+Mobile simulator - responsive testing tool
+Sider: Chat with all AI models (DeepSeek, Gemini, Claude, etc.
+Google Translate
+<== !!! ==>
